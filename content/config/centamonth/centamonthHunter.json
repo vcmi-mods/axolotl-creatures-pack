@@ -32,7 +32,6 @@
 			"move" : "centamonth/CNTHMOVE",
 			"wince" : "centamonth/CNTHWNCE"
 		},
-		"speed" : 7,
-		"upgrades" : [ "centamonthThrower" ]
+		"speed" : 7
 	}
 }
